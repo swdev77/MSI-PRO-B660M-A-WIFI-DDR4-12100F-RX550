@@ -61,30 +61,30 @@
 				<key>WiFi_1</key>
 				<dict>
 					<key>password</key>
-					<string>zaqxsw123</string>
+					<string>zxyssdt112233</string>
 					<key>ssid</key>
-					<string>iPhone (Zafarjon)</string>
+					<string>ssdt</string>
 				</dict>
 				<key>WiFi_2</key>
 				<dict>
 					<key>password</key>
-					<string>zaqxsw321</string>
+					<string>zxyssdt112233</string>
 					<key>ssid</key>
-					<string>Xiaomi 11T</string>
+					<string>ssdt_5G</string>
 				</dict>
 				<key>WiFi_3</key>
 				<dict>
 					<key>password</key>
-					<string>86744089</string>
+					<string></string>
 					<key>ssid</key>
-					<string>SOLID ST</string>
+					<string>Redmi</string>
 				</dict>
 				<key>WiFi_4</key>
 				<dict>
 					<key>password</key>
-					<string>mn1ygh5a</string>
+					<string>9utc5c5f</string>
 					<key>ssid</key>
-					<string>EVO-LTE-058D</string>
+					<string>CMCC-KtG6</string>
 				</dict>
 			</dict>
 		</dict>
